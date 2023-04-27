@@ -1,0 +1,22 @@
+[mons]
+ingress-1.s053642.slurm.io monitor_address=172.16.154.5
+node-1.s053642.slurm.io monitor_address=172.16.154.6
+node-2.s053642.slurm.io monitor_address=172.16.154.7
+
+[osds]
+ingress-1.s053642.slurm.io
+node-1.s053642.slurm.io
+node-2.s053642.slurm.io
+
+[mgrs]
+ingress-1.s053642.slurm.io
+node-1.s053642.slurm.io
+node-2.s053642.slurm.io
+
+[mdss]
+ingress-1.s053642.slurm.io
+node-1.s053642.slurm.io
+node-2.s053642.slurm.io
+
+[grafana-server]
+node-2.s053642.slurm.io 
